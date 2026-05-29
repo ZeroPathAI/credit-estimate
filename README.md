@@ -1,14 +1,12 @@
 # credit-estimate
 
-Estimate the cost of an initial ZeroPath full scan for a repository. Runs locally; nothing is uploaded.
+Locally estimate the cost of an initial ZeroPath full scan for a repository. Requires Python 3.9+
 
 ## Run it
 
 ```bash
 python3 zeropath_scan_cost_estimator.py /path/to/your/repo
 ```
-
-Requires Python 3.9+ (already installed on macOS and most Linux).
 
 ## Options
 
